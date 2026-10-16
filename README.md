@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://media.giphy.com/media/jDX0fqmPKKZENMNOBU/giphy.gif" width="50" align="right" alt="Anime: Madoka Magica">
+  <img src="https://media.giphy.com/media/l1vFoB42EjYjaT0rNU/giphy.gif" width="50" align="right" alt="Anime: Madoka Magica">
   Hello
 </h2>
 
